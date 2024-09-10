@@ -12,7 +12,7 @@ There are five entities of Basic Banking System, these entities are:
 - Deposit_Transaction (Transaksi_Deposit)
 - Withdrawal_Transaction (Transaksi_Penarikan)
 
-The `Client` entity only has a relationship with the `Account` entity, while the entity of Account has relationships with `Transfer_Transaction`, `Deposit_Transaction` and `Withdarwal_Transaction`. Each entities and relationships explained in the sections below.
+The `Client` entity only has a relationship with the `Account` entity, while the entity of `Account` has relationships with `Transfer_Transaction`, `Deposit_Transaction` and `Withdarwal_Transaction`. Each entities and relationships explained in the sections below.
 
 ### Client (Nasabah)
 `Client` entity has the following attributes:
